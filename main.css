@@ -1,0 +1,16 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.headName{
+    font-size: 60px;
+    background-color: aqua;
+    color: black;
+    text-align: center;
+}
+.navColor{
+    color: darkorange;
+    margin: 10px;
+    border: 10px;
+    padding: 10px;
+}
